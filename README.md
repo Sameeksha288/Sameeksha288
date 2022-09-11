@@ -10,12 +10,13 @@
 
 </p>
 
-Badges template - https://github.com/badges/shields
 
 
 ## <👨‍💻 About Me>
-<span> I'm a student of B.Tech Computer Science </span>
-<span> I am interested in Web Development and Machine Learning </span>
+-  I am a student of B.Tech Computer Science
+-  I am interested in Web Development and Machine Learning <br>
+-  All of my projects are available at [https://github.com/Sameeksha288?tab=repositories](https://github.com/Sameeksha288?tab=repositories)
+ 
 
 
 ## My Skills<img src="media/skills.gif" height="50px">
