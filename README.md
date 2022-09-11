@@ -14,8 +14,8 @@ Badges template - https://github.com/badges/shields
 
 
 ## <👨‍💻 About Me>
-<img src="media/happy.gif" width="30px"> I'm a student of B.Tech Computer Science <br>
-<img src="media/Developer.gif" width="40px"> I am interested in Web Development and Machine Learning
+<span> I'm a student of B.Tech Computer Science </span>
+<span> I am interested in Web Development and Machine Learning </span>
 
 
 ## My Skills<img src="media/skills.gif" height="50px">
