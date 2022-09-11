@@ -19,7 +19,7 @@
  
 
 
-## My Skills<img src="media/skills.gif" height="50px">
+## <🔩 My Skills>  
 ## Programming Languages
 <h1 align = "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80" />
