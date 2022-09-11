@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I am **Sameeksha Mishra**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I am Sameeksha Mishra
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -20,16 +20,16 @@
  -->
 
 ## My Skills<img src="media/skills.gif" height="50px">
+## Programming Languages
 <h1 align = "center">
-- **Programming Languages**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80"  />
 </h1>
 
+## Web Development
 <h1 align = "center">
-- **Web Development**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80"  />
@@ -43,12 +43,13 @@
 
 </h1>
 
+## Machine Learning
 <h1 align = "center">
-- **Machine Learning**
-<img height=60px src="media/numpy.jpg"  width="80" height="80" > 
-<img height=110px  src="media/pandas.png"  width="80" height="80" > 
-<img height=60px src="media/scikit.png" width="80" height="80" > 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80" height="80"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80" height="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="80"  />
 </h1>
+
   
   ## <📈 GitHub Stats >  
 
